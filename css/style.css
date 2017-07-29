@@ -1,0 +1,49 @@
+body {
+	margin: auto;
+	background: #eeeeee;
+}
+
+h1 {
+	color: black;
+	text-transform: uppercase;
+	font-size: 1.5em;
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+}
+
+hr {
+	color: blue;
+}
+
+.container {
+	background: grey;
+	width: 70%;
+	margin: auto;
+}
+
+h2 {
+	color: blue;
+	font-size: 0.9em;
+	text-transform: uppercase;
+	margin-left: 30px;
+}
+
+p {
+	color: grey;
+	font-size: 1em;
+	margin-left: 30px;
+}
+
+form {
+	margin-left: 30px;
+}
+
+input {
+	margin-bottom: 10px;
+}
+
+textarea {
+	margin-bottom: 10px;
+}
+
